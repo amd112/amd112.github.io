@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-The basics
-======
 
-I am a Research Data Analyst cross-departmentally placed at the Carnegie Mellon Machine Learning Department and Heinz College of Information Systems and Public Policy. 
+Hi there!
 
-I'm a past Research Analyst at the [Stanford Center on Food Security and the Environment](https://fsi.stanford.edu/people/anne-driscoll) [ECHO Lab](https://echolabs.squarespace.com/news) and past fellow at the University of Chicago [Data Science for Social Good Program](https://www.dssgfellowship.org/europe/2018-fellows-staff-europe/). I received my B.S. in Statistical Science from Duke Univeristy, where my thesis used open data to identify disproportionate toxicity burden on minority and low income communities across the US.
+My name is Anne Driscoll and I’m a Research Data Analyst at Carnegie Mellon, where I work with data on people, the environment and the economy (oh my!).
 
-My reserach has broad scope, covering xyzzy with a focus on xyzzy.  
+While getting my BS at Duke, I worked on using open data to identify disproportionate toxicity burden in minority communities across the US and making those conclusions publicly accessible.
 
-For more information on my publication.
+In the past I’ve been a Research Analyst at the [Stanford Center on Food Security and the Environment](https://fsi.stanford.edu/people/anne-driscoll) [ECHO](https://echolabs.squarespace.com/news) (Environmental Change and Human Outcomes) Lab, a fellow at the University of Chicago [Data Science for Social Good Program](https://www.dssgfellowship.org/europe/2018-fellows-staff-europe/) and a Data Analyst at the Nicholas Institute for Environmental Policy Solutions and the Duke Clinical and Translational Science Institute.
+
+
 
 Current interests
 ======
