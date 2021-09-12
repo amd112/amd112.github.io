@@ -11,9 +11,9 @@ redirect_from:
 
 My name is Anne Driscoll and I’m a Research Data Analyst at Carnegie Mellon, where I work with data on people, the environment and the economy (oh my!).
 
-While getting my BS at Duke, I worked on using open data to identify disproportionate toxicity burden in minority communities across the US and making those conclusions publicly accessible.
-
 In the past I’ve been a Research Analyst at the [Stanford Center on Food Security and the Environment](https://fsi.stanford.edu/people/anne-driscoll) [Environmental Change and Human Outcomes Lab](https://echolabs.squarespace.com/news), a fellow at the University of Chicago [Data Science for Social Good Program](https://www.dssgfellowship.org/europe/2018-fellows-staff-europe/) and a Data Analyst at the Nicholas Institute for Environmental Policy Solutions and the Duke Clinical and Translational Science Institute.
+
+While getting my BS at Duke, I worked on using open data to identify disproportionate toxicity burden in minority communities across the US and making those conclusions publicly accessible.
 
 
 
