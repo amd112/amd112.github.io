@@ -17,8 +17,7 @@ While getting my BS at Duke, I worked on using open data to identify disproporti
 
 
 
-Current interests
-======
+## Current interests
 
 * Sourdough (I try at least...)
 * Learning about Pittsburgh
@@ -27,8 +26,7 @@ Current interests
 * Expanding my music taste
 
 
-Fun facts
-======
+## Fun facts
 
 2 truths and a lie, which is which?
 * I've gone to school on 3 continents.
