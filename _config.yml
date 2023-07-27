@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anne Driscoll"
 title_separator          : "-"
 name                     : &name "Anne Driscoll"
-description              : &description "Research Data Analyst at CMU"
+description              : &description "Data Scientist at the New York City Council"
 url                      : https://amd112.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amd112.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Anne Driscoll"
   avatar           : "profile.png"
-  bio              : "Research Data Analyst at Carnegie Mellon"
-  location         : "Pittsburgh, PA"
+  bio              : "Data Scientist at the New York City Council"
+  location         : "New York City"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TGah-ZgAAAAJ&hl=en"
