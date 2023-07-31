@@ -11,7 +11,7 @@ redirect_from:
 
 My name is Anne Driscoll and I’m a Data Scientist at the New York City Council, where I work with data on people, the environment and the economy (oh my!).
 
-In the past I’ve been a Research Analyst at the [Stanford Center on Food Security and the Environment](https://fsi.stanford.edu/people/anne-driscoll)'s [Environmental Change and Human Outcomes Lab](https://echolabs.squarespace.com/news), a fellow at the University of Chicago [Data Science for Social Good Program](https://www.dssgfellowship.org/europe/2018-fellows-staff-europe/) (as well as a Data Scientist at the [Data Science and Public Policy Lab](http://www.datasciencepublicpolicy.org/), which runs the fellowship) and a Data Analyst at the Nicholas Institute for Environmental Policy Solutions.
+In the past I’ve been a Research Analyst at the [Stanford Center on Food Security and the Environment](https://fsi.stanford.edu/people/anne-driscoll)'s [Environmental Change and Human Outcomes Lab](https://echolabs.squarespace.com/news), a fellow at the University of Chicago [Data Science for Social Good Program](https://www.dssgfellowship.org/europe/2018-fellows-staff-europe/) (as well as a Data Scientist at the Carnegie Mellon [Data Science and Public Policy Lab](http://www.datasciencepublicpolicy.org/), which runs the fellowship) and a Data Analyst at the Nicholas Institute for Environmental Policy Solutions.
 
 While getting my BS at Duke, I worked on using open data to identify disproportionate toxicity burden in minority communities across the US and making those conclusions publicly accessible.
 
