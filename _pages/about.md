@@ -11,18 +11,21 @@ redirect_from:
 
 My name is Anne Driscoll and I’m a Data Scientist at the New York City Council, where I work with data on people, the environment and the economy (oh my!).
 
-In the past I’ve been a Research Analyst at the [Stanford Center on Food Security and the Environment](https://fsi.stanford.edu/people/anne-driscoll)'s [Environmental Change and Human Outcomes Lab](https://echolabs.squarespace.com/news), a fellow at the University of Chicago [Data Science for Social Good Program](https://www.dssgfellowship.org/europe/2018-fellows-staff-europe/) (as well as a Data Scientist at the Carnegie Mellon [Data Science and Public Policy Lab](http://www.datasciencepublicpolicy.org/), which runs the fellowship) and a Data Analyst at the Nicholas Institute for Environmental Policy Solutions.
+In the past I’ve been a:
+* Research Analyst at the [Stanford Center on Food Security and the Environment](https://fsi.stanford.edu/people/anne-driscoll)'s [Environmental Change and Human Outcomes Lab](https://echolabs.squarespace.com/news)
+* fellow at the University of Chicago [Data Science for Social Good Program](https://www.dssgfellowship.org/europe/2018-fellows-staff-europe/) 
+* Data Scientist at the Carnegie Mellon [Data Science and Public Policy Lab](http://www.datasciencepublicpolicy.org/), which runs the DSSG fellowship 
+* Data Analyst at the Nicholas Institute for Environmental Policy Solutions.
 
-While getting my BS at Duke, I worked on using open data to identify disproportionate toxicity burden in minority communities across the US and making those conclusions publicly accessible.
 
-
+I am interested in data science for social impact, a massively broad space - please reach out if you've got questions or just would like to chat!
 
 ## Current interests
 
-* Sourdough (I try at least...)
-* Knitting
+* Blueberries - I get obsessed every summer
+* Knitting! I'm currently knitting a mood blanket, similar to a the classic [temperature blanket](https://www.temperature-blanket.com/) but capturing how I feel each day.
 * Sci-fi/Space Operas
-* Expanding my music taste
+* Seeing Taylor Swift an embarrasing number of times.
 
 
 ## Fun facts
